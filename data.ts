@@ -49,7 +49,7 @@ export const projectsData: Project[] = [
     galleryImages: [
         img("IMG-20250902-WA0052.jpg"),
         img("IMG-20250902-WA0054.jpg"),
-        img("WhatsApp Image 2025-05-28 at 20.13.55_b7a0af44.jpg")
+        img("IMG_WhatsApp.jpg")
     ]
   },
   {
@@ -60,10 +60,10 @@ export const projectsData: Project[] = [
     communities: "Adaklu-Ablornu, Sogakope-Fievie",
     reach: "393 beneficiaries",
     description: "Focused on menstrual hygiene, waste management, and adolescent health.",
-    image: img("untitleduntitleduntitledIMG_2545(1of1)(74of102)(148of205)-Copy.jpg"),
+    image: img("IMG_2545.jpg"),
     fullContent: "The Safe Flow Project focused on menstrual hygiene, waste management, and adolescent health advocacy. Through community engagement and radio sensitization, the project increased awareness on menstrual health and promoted the safe disposal of sanitary products. It also strengthened adolescent clubs and empowered girls with knowledge to challenge stigma.",
     galleryImages: [
-        img("untitleduntitleduntitledIMG_2775(1of1)(98of102)(196of205).jpg"),
+        img("IMG_2775.jpg"),
         img("IMG_0010.jpg"),
         img("IMG_0011.jpg")
     ]
@@ -153,7 +153,7 @@ export const blogData: BlogPost[] = [
     date: "May 28, 2025",
     category: "Health",
     author: "Health Team",
-    image: img("WhatsApp Image 2025-05-28 at 20.13.55_b7a0af44.jpg"),
+    image: img("IMG_WhatsApp.jpg"),
     excerpt: "Reflections from the Safe Flow Project and our work in Adaklu-Ablornu.",
     content: "Menstruation is a natural biological process, yet it remains shrouded in silence and stigma in many communities. Through the Safe Flow Project, we are changing the narrative..."
   }
